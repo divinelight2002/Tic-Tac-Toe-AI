@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-AI
-Tic-Tac-Toe AI (Artificial Intelligence) with **[Minimax Algorithm]**(https://en.wikipedia.org/wiki/Minimax) that plays a perfect game for 2 AI players. This AI will consider all possible scenarios and makes the most optimal move.
+Tic-Tac-Toe AI (Artificial Intelligence) with [Minimax Algorithm](https://en.wikipedia.org/wiki/Minimax) that plays a perfect game for 2 AI players. This AI will consider all possible scenarios and makes the most optimal move.
 
 # To play Tic-Tac-Toe-AI game please click here: 
 https://divinelight2002.github.io/Tic-Tac-Toe-AI/
