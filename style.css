@@ -1,0 +1,51 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}
+
+section {
+    text-align: center;
+}
+
+.game--title {
+    font-size: 50px;
+    color: white;
+    margin: 10px auto;
+}
+
+.game--container {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    width: 306px;
+    margin: 10px auto;
+    background-color: black;
+    color: white;
+}
+
+.cell {
+    font-family:'Courier New', Courier, monospace;
+    width: 100px;
+    height: 100px;
+    box-shadow: 2px 2px 2px 2px white;
+    border: 2px solid white;
+    cursor: pointer;
+    line-height: 100px;
+    font-size: 60px;
+}
+
+.game--status {
+    font-size: 30px;
+    color: white;
+    margin: 20px auto;
+}
+
+.game--restart {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    color: white;
+    box-shadow: 2px 2px 2px 2px white;
+    border: 2px solid white;
+}
